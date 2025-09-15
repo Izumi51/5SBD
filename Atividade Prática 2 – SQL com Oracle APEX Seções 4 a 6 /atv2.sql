@@ -63,7 +63,6 @@
         END AS classificacao
     FROM cliente;
 
-
 -- 16. Exiba o nome de cada cliente, o número da conta e o saldo correspondente. 
     SELECT c.cliente_nome,
         co.conta_numero,
